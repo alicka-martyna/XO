@@ -1,0 +1,16 @@
+
+x
+java:S2386"0Move "board" to a class and lower its visibility(É½ææıÿÿÿÿ8«Œ‘ñ1J$b6aed96d-fabd-4a6e-91bf-1cfad02d511f
+r	java:S106
+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¬Œ‘ñ1J$91201974-d44c-4ba4-b090-88efe40706b5
+m	java:S106"+Replace this use of System.out by a logger.(ãñÇ8¬Œ‘ñ1J$9432d1ee-66fc-405b-a9f5-2a074a5725a9
+m	java:S106"+Replace this use of System.out by a logger.(¯ş‘„8­Œ‘ñ1J$504788b2-4ea4-4d2f-8c1b-87d565dba18d
+m	java:S106"+Replace this use of System.out by a logger.(şõè²8­Œ‘ñ1J$1adcc713-b6c2-4d42-9174-3c5d5e4322bf
+m	java:S106"+Replace this use of System.out by a logger.(¯ş‘„8­Œ‘ñ1J$08ea8055-5e45-4717-9f51-0c4f5e334759
+l	java:S106"+Replace this use of System.out by a logger.(Ó®¡p8­Œ‘ñ1J$273152a3-6020-4f44-9e71-147df3c33e17
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8­Œ‘ñ1J$f87f977a-cb42-43c4-b27b-7cf70656fa48
+r	java:S106#"+Replace this use of System.out by a logger.(‚¹²øÿÿÿÿ8¯Œ‘ñ1J$13131bf2-8a4c-4b2d-9895-acec1cecacac
+¦
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâŞáøÿÿÿÿ8¯Œ‘ñ1J$45179c24-9961-42dc-99bc-91e58fd91082
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ù„ß‘ñ1J$54fe9643-5b2a-4ece-8185-006b8b75c064
